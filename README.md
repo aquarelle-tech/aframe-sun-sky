@@ -1,4 +1,6 @@
-aframe-simple-sun-sky
+aframe-sun-sky
+(Forked from https://github.com/DougReeder/aframe-simple-sun-sky)
+
 ===
 
 An [A-Frame](https://aframe.io) [WebVR](https://webvr.info/) sky primitive using a simple (and fast) gradient away from the sun.
